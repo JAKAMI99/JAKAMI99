@@ -2,6 +2,7 @@
 - 👀 I’m interested in Tech, Networks, Ham-Radio,...
 - 🌱 I’m currently learning to play around with Unraid and Docker =) 
 - 📫 How to reach me: Twitter https://www.twitter.com/JAKAMI99 <3
+- 👨‍💻 Feel free to check out my own Website: https://www.jakami.de/
 
 <!---
 JAKAMI99/JAKAMI99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
