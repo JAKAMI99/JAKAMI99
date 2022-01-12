@@ -1,7 +1,7 @@
 - 👋 Hi, I’m JAKAMI99 aka Jannic
 - 👀 I’m interested in Tech, Networks, Ham-Radio,...
 - 🌱 I’m currently learning to play around with Unraid and Docker =) 
-- 📫 How to reach me: Twitter https://www.twitter.com/JAKAMI99 <3
+- 📫 How to reach me: https://www.jakami.de/contact or Twitter https://www.twitter.com/JAKAMI99 <3
 - 👨‍💻 Feel free to check out my own Website: https://www.jakami.de/
 
 <!---
