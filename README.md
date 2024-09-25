@@ -1,7 +1,7 @@
 # 🏳️‍🌈🏴‍☠️📡📶
 
 - 👋 Hi, I’m JAKAMI99 aka jakami aka Jannic
-- 👀 I’m interested in Linux, IT Security, WiFi, music, sciences, nature, physics and really love videogames...
+- 👀 I’m interested in Linux, IT Security, WiFi, HAM radio, music, sciences, nature, physics and really love videogames...
 - 🌱 I play around with music instruments, Cars, my solder iron, HackRF and most of the time, love to go outside :)
 - 🙅🏼 I hate racism, populism, mass surveillance, most big tech giants, mental issues (anxieties are annoying af)
 - 📫 How to reach me: https://jakami.de/kontakt/ or Mastodon: https://chaos.social/@jakami99 
